@@ -27,7 +27,7 @@ https://aquaosdev.livejournal.com/
 aquaosdevteam@gmail.com
 
 # UPDATES AND ANNOUNCEMENTS
-aquaOS is moving it will have it's own personal repo away from ringwormGO-organization, but it will still be a part of ringwormGO.
+
 
 # Photos
 ![aquaOSqemu](https://user-images.githubusercontent.com/94230991/141654648-0812b991-960d-4938-904b-2a013c778a20.png)
