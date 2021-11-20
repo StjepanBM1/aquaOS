@@ -1,5 +1,5 @@
 # About aquaOS
-aquaOS is just a testing OS where I test my programming skills
+aquaOS is just a testing OS where I test my programming skills.
 
 aquaOS was desinged around concept of simplicity hence the name "aquaOS" because you can't get more basic than water.
 
@@ -30,4 +30,3 @@ aquaosdevteam@gmail.com
 
 
 # Photos
-![aquaOSqemu](https://user-images.githubusercontent.com/94230991/141654648-0812b991-960d-4938-904b-2a013c778a20.png)
