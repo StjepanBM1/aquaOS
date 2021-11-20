@@ -30,4 +30,5 @@ aquaosdevteam@gmail.com
 
 
 # Photos
+aquaOS on Bocsh
 ![aquaOSbsch](https://user-images.githubusercontent.com/94230991/142721124-6eb6e706-d5aa-459e-998d-c1f41abfd0f8.png)
