@@ -1,0 +1,5 @@
+# Windows
+Go into kernel folder and select run.bat file
+
+#Linux
+cd into the directory of aquaOS and then cd into kernel and type "make run"
