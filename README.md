@@ -21,7 +21,7 @@ April-Rest of the year = bux fixes and adding more language support (for example
 # System Requirements (as of ver. 0.3)
 RAM = 256 Mb
 
-Disk space = 55 Mb
+Disk space = 60 Mb
 # Blog post/Contact
 https://aquaosdev.livejournal.com/
 
