@@ -1,4 +1,6 @@
 # About aquaOS
+Current version: 0.3
+
 aquaOS is just a testing OS where I test my programming skills.
 
 aquaOS was desinged around concept of simplicity hence the name "aquaOS" because you can't get more basic than water.
@@ -26,7 +28,7 @@ https://aquaosdev.livejournal.com/
 aquaosdevteam@gmail.com
 
 # UPDATES AND ANNOUNCEMENTS
-
+Version 0.3 just released
 
 # Photos
 TO NOTE I DID ALTER MY RESOLUTION / SCREEN SIZE
