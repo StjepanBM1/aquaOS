@@ -16,7 +16,7 @@ March-April 2022 = Finishing touches
 
 April-Rest of the year = bux fixes and adding more language support (for example polish,french, etc.)
 
-# System Requirements (as of ver. 0.1)
+# System Requirements (as of ver. 0.3)
 Storage: 64mb
 
 Ram: atleast 24mb
