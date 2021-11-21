@@ -29,5 +29,6 @@ aquaosdevteam@gmail.com
 
 
 # Photos
+TO NOTE I DID ALTER MY RESOLUTION / SCREEN SIZE
 
 ![qemuaquaOS03](https://user-images.githubusercontent.com/94230991/142755987-cb2fe39c-70cd-4c70-9719-000d1efc30ad.png)
