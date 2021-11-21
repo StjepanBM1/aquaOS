@@ -30,4 +30,5 @@ aquaosdevteam@gmail.com
 
 
 # Photos
+![aquaOSver03qemu](https://user-images.githubusercontent.com/94230991/142753361-d199b103-182e-462b-a4dd-bb1db7a2b8e9.png)
 
