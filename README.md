@@ -17,8 +17,8 @@ March-April 2022 = Finishing touches
 April-Rest of the year = bux fixes and adding more language support (for example polish,french, etc.)
 
 # System Requirements (as of ver. 0.3)
-UNDER TESTING
-
+RAM = 256 Mb
+Disk space = 55 Mb
 # Blog post/Contact
 https://aquaosdev.livejournal.com/
 
