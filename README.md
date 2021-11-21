@@ -6,7 +6,7 @@ aquaOS was desinged around concept of simplicity hence the name "aquaOS" because
 aquaOS is currently in it's early developmnet it dosen't have a proper GUI, but it will in future!
 
 # Plans for aquaOS
-November-December 2021 = Early version of GUI, improving the kernel
+November-December 2021 = Making basic stuff, maybe adding GUI
 
 Late December-Early January = Adding stuf like clock, calendar, calculator and other basic stuff like text editor and a basic web browser
 
