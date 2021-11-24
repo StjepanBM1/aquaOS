@@ -18,7 +18,7 @@ March-April 2022 = Finishing touches
 
 April-Rest of the year = bux fixes and adding more language support (for example polish,french, etc.)
 
-# System Requirements (as of ver. 0.3)
+# System Requirements (as of ver. 0.4)
 RAM = 40 Mb
 
 Disk space = 60 Mb
@@ -28,7 +28,7 @@ https://aquaosdev.livejournal.com/
 aquaosdevteam@gmail.com
 
 # UPDATES AND ANNOUNCEMENTS
-Version 0.3 just released
+Version 0.4 just released
 
 # Photos
 TO NOTE I DID ALTER MY RESOLUTION / SCREEN SIZE
