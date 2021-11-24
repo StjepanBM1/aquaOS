@@ -33,7 +33,5 @@ Version 0.4 just released
 # Photos
 TO NOTE I DID ALTER MY RESOLUTION / SCREEN SIZE
 
-Version 0.4
-
 ![aqua04](https://user-images.githubusercontent.com/94230991/143301351-1afef52f-34d0-488d-8e41-f02375262b61.png)
-
+Version 0.4
