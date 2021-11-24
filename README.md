@@ -33,4 +33,5 @@ Version 0.3 just released
 # Photos
 TO NOTE I DID ALTER MY RESOLUTION / SCREEN SIZE
 
-![aquaOSver04qemu](https://user-images.githubusercontent.com/94230991/143301036-fa50216e-55c6-406d-ab70-ef3369e23f3c.png)
+![aqua04](https://user-images.githubusercontent.com/94230991/143301351-1afef52f-34d0-488d-8e41-f02375262b61.png)
+
