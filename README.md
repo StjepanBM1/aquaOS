@@ -1,8 +1,6 @@
 # About aquaOS
 Current version: 0.3
 
-aquaOS is just a testing OS where I test my programming skills.
-
 aquaOS was desinged around concept of simplicity hence the name "aquaOS" because you can't get more basic than water.
 
 aquaOS is currently in it's early developmnet it dosen't have a proper GUI, but it will in future!
