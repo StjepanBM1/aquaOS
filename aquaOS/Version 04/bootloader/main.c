@@ -173,20 +173,58 @@ EFI_STATUS efi_main (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *SystemTable) {
 		Kernel->Read(Kernel, &size, &header);
 	}
 
-	if (
-		memcmp(&header.e_ident[EI_MAG0], ELFMAG, SELFMAG) != 0 ||
-		header.e_ident[EI_CLASS ] != ELFCLASS64 ||
-		header.e_ident[EI_DATA] != ELFDATA2LSB ||
-		header.e_type != ET_EXEC ||
-		header.e_machine != EM_X86_64 ||
-		header.e_version != EV_CURRENT
-	) 
+	if (memcmp(&header.e_ident[EI_MAG0], ELFMAG, SELFMAG) != 0)
 	{
-		Print(L"Kernel format is bad\r\n");
+		Print(L"Kernel ELF Magic is invalid.\r\n");
 	}
-	else 
+	else
 	{
-		Print(L"Kernel Header Successfully Verified\r\n");
+		Print(L"Kernel ELF Magic is valid.\n\r");
+	}
+
+	if (header.e_ident[EI_CLASS] != ELFCLASS64)
+	{
+		Print(L"Kernel is not a 64 bit ELF binary.\r\n");
+	}
+	else
+	{
+		Print(L"Kernel is ELF 64bit binary.\n\r");
+	}
+
+	if (header.e_ident[EI_DATA] != ELFDATA2LSB)
+	{
+		Print(L"Kernel data segment endianess is incorrect.\r\n");
+	}
+	else
+	{
+		Print(L"Kernel data segment is correct.\n\r");
+	}
+
+	if (header.e_type != ET_EXEC)
+	{
+		Print(L"Kernel ELF Binary type is not an executable.\r\n");
+	}
+	else
+	{
+		Print(L"Kernel ELF Binray type is executable.\n\r");
+	}
+
+	if (header.e_machine != EM_X86_64)
+	{
+		Print(L"Kernel machine type is not valid for this system\r\n");
+	}
+	else
+	{
+		Print(L"Kernel machine type is valid for this system.\n\r");
+	}
+
+	if (header.e_version != EV_CURRENT)
+	{
+		Print(L"Kernel ELF version mismatch\r\n");
+	}
+	else
+	{
+		Print(L"Kernel ELF version is valid.\n\r");
 	}
 
 	Elf64_Phdr* phdrs; 
