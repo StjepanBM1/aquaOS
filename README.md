@@ -1,7 +1,7 @@
 # About aquaOS
 DEVELOPMENT WILL CONTINUE AFTER 25.12.2021
 
-Current version: 0.4
+Current version: 0.5
 
 aquaOS was desinged around concept of simplicity hence the name "aquaOS" because you can't get more basic than water.
 
