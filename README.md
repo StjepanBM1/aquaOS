@@ -35,7 +35,9 @@ TO NOTE I DID ALTER MY RESOLUTION / SCREEN SIZE
 
 ![aqua04](https://user-images.githubusercontent.com/94230991/143301351-1afef52f-34d0-488d-8e41-f02375262b61.png)
 Version 0.4
+
 ![qemuaquaOS03](https://user-images.githubusercontent.com/94230991/144215117-64643784-2ed9-40a9-aada-f035a1959b94.png)
 Version 0.3
+
 ![aquaOSqemu](https://user-images.githubusercontent.com/94230991/144215233-555f3bb9-0518-422a-be9e-03186bd9b3d6.png)
 Version 0.1
