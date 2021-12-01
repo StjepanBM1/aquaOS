@@ -18,7 +18,7 @@ March-April 2022 = Finishing touches
 
 April-Rest of the year = bux fixes and adding more language support (for example polish,french, etc.)
 
-# System Requirements (as of ver. 0.4)
+# System Requirements (as of ver. 0.5)
 RAM = 40 Mb
 
 Disk space = 60 Mb
