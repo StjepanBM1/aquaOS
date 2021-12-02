@@ -1,5 +1,4 @@
 # About aquaOS
-DEVELOPMENT WILL CONTINUE AFTER 25.12.2021
 
 Current version: 0.5
 
@@ -28,7 +27,7 @@ https://aquaosdev.livejournal.com/
 aquaosdevteam@gmail.com
 
 # UPDATES AND ANNOUNCEMENTS
-Version 0.4 just released
+Version 0.5 just released
 
 # Photos
 TO NOTE I DID ALTER MY RESOLUTION / SCREEN SIZE
