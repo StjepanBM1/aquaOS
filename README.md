@@ -19,7 +19,7 @@ aquaOS is currently in it's early developmnet it dosen't have a proper GUI, but 
 # System Requirements (as of ver. 0.6)
 RAM = 40 Mb
 
-Disk space = 105 Mb
+Disk space = 120 Mb
 # Blog post/Contact
 https://aquaosdev.livejournal.com/
 
