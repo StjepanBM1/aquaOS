@@ -16,10 +16,10 @@ aquaOS is currently in it's early developmnet it dosen't have a proper GUI, but 
 
 - [ ] April-Rest of the year = bux fixes and adding more language support (for example polish,french, etc.)
 
-# System Requirements (as of ver. 0.5)
+# System Requirements (as of ver. 0.6)
 RAM = 40 Mb
 
-Disk space = 120 Mb
+Disk space = 105 Mb
 # Blog post/Contact
 https://aquaosdev.livejournal.com/
 
@@ -30,6 +30,9 @@ Version 0.5 just released
 
 # Photos
 TO NOTE I DID ALTER MY RESOLUTION / SCREEN SIZE
+
+![aquaOSver06](https://user-images.githubusercontent.com/94230991/144704645-71ed7f0a-2b87-4e8b-8aaf-ca3137211abe.png)
+Version 0.6
 
 ![aquaOSver05](https://user-images.githubusercontent.com/94230991/144215582-a4b1cb81-c4b5-422b-9dc9-c345171d53f2.png)
 Version 0.5
