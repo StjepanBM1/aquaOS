@@ -1,6 +1,6 @@
 # About aquaOS
 
-Current version: 0.5
+Current version: 0.6
 
 aquaOS was desinged around concept of simplicity hence the name "aquaOS" because you can't get more basic than water.
 
@@ -26,7 +26,7 @@ https://aquaosdev.livejournal.com/
 aquaosdevteam@gmail.com
 
 # UPDATES AND ANNOUNCEMENTS
-Version 0.5 just released
+Version 0.6 just released
 
 # Photos
 TO NOTE I DID ALTER MY RESOLUTION / SCREEN SIZE
