@@ -20,6 +20,11 @@ aquaOS is currently in it's early developmnet it dosen't have a proper GUI, but 
 RAM = 40 Mb
 
 Disk space = 60 Mb
+
+# Website
+
+https://aquaos.stjepanstjepan.repl.co/
+
 # Blog post/Contact
 https://aquaosdev.livejournal.com/
 
