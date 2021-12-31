@@ -8,7 +8,7 @@ aquaOS was desinged around concept of simplicity hence the name "aquaOS" because
 
 aquaOS is currently in it's early developmnet it dosen't have a proper GUI, but it will in future!
 
-- [x ] November - December = Developing basic aquaOS
+- [ x ] November - December = Developing basic aquaOS
 
 - [ ] Late December-Early January = Adding stuf like clock, calendar, calculator and other basic stuff like text editor and a basic web browser
 
