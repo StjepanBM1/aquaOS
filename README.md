@@ -10,13 +10,13 @@ aquaOS is currently in it's early developmnet it dosen't have a proper GUI, but 
 
 - [ x ] November - December = Developing basic aquaOS
 
-- [ ] Late December-Early January = Adding stuf like clock, calendar, calculator and other basic stuff like text editor and a basic web browser
+- [ ] Early January - Late January = Switching to Limine
 
-- [ ] January-February 2022 = finishing GUI, improving optimization on lower end devices
+- [ ] Late January- Early February 2022 = finishing GUI, improving optimization on lower end devices
 
 - [ ] March-April 2022 = Finishing touches
 
-- [ ] April-Rest of the year = bux fixes and adding more language support (for example polish,french, etc.)
+- [ ] April-Rest of the year = bux fixes and adding more language support (for example Croatian,Polish,French, etc.)
 
 # System Requirements (as of ver. 0.6)
 RAM = 40 Mb
