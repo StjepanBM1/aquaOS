@@ -1,5 +1,9 @@
 # About aquaOS
 
+Want to help this project?
+
+Just send bitcoins to this address: bc1qwk9r5sary99jj0d5lxyjjlgzar0a2vfdgxqhfy
+
 Current version: 0.6
 
 aquaOS was desinged around concept of simplicity hence the name "aquaOS" because you can't get more basic than water.
