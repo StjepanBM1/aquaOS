@@ -22,6 +22,10 @@ Now that that is out of way here are some of the possibilities of what to do wit
 
 3. Archive it and stop development
 
+If you have any idea what to do or want to voice an opinion contact me on discord (rinwormGO server)
+
+MY USER: Bob the Pigeon#0638
+
 ## ----------------------------------------------------------------------------------------------------------------
 
 
