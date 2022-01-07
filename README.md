@@ -8,7 +8,7 @@ So now that I'm working on ringOS Limine version,
 
 I'm starting to ask my self "What is the point of aquaOS?"
 
-I have PekOS for BIOS and older PC's, ringOS for UEFI, etc...
+I have PekOS for BIOS and older PC's, ringOS for UEFI (to note ringOS is under ringwormGO), etc...
 
 But what does aquaOS have that others (ringOS and other Poncho releated OS-es) don't?
 
@@ -22,7 +22,7 @@ Now that that is out of way here are some of the possibilities of what to do wit
 
 3. Archive it and stop development
 
-If you have any idea what to do or want to voice an opinion contact me on discord (rinwormGO server)
+If you have any idea what to do or want to voice an opinion contact me on discord (ringwormGO server)
 
 MY USER: Bob the Pigeon#0638
 
