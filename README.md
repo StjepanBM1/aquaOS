@@ -1,5 +1,30 @@
 # About aquaOS
 
+## Future of aquaOS
+
+### TL;DR = I'm not really sure what to do with aquaOS
+
+So now that I'm working on ringOS Limine version,
+
+I'm starting to ask my self "What is the point of aquaOS?"
+
+I have PekOS for BIOS and older PC's, ringOS for UEFI, etc...
+
+But what does aquaOS have that others (ringOS and other Poncho releated OS-es) don't?
+
+Practically nothing
+
+Now that that is out of way here are some of the possibilities of what to do with aquaOS:
+
+1. Combine it with PekOS
+
+2. Make it a Linux Distro
+
+3. Archive it and stop development
+
+## ----------------------------------------------------------------------------------------------------------------
+
+
 Want to help this project?
 
 Just send bitcoins to this address: bc1qwk9r5sary99jj0d5lxyjjlgzar0a2vfdgxqhfy
@@ -9,6 +34,8 @@ Current version: 0.6
 aquaOS was desinged around concept of simplicity hence the name "aquaOS" because you can't get more basic than water.
 
 aquaOS is currently in it's early developmnet it dosen't have a proper GUI, but it will in future!
+
+# Plans (currently canceled)
 
 - [ x ] November - December = Developing basic aquaOS
 
