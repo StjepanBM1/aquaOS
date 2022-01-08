@@ -1,16 +1,8 @@
 # About aquaOS
 
-aquaOS is now a GNU/Linux distro
+aquaOS is now on a pause for some time unitl I don't realise what to do with it
 
-Want to help this project?
-
-Just send bitcoins to this address: bc1qwk9r5sary99jj0d5lxyjjlgzar0a2vfdgxqhfy
-
-Current version: 0.0.1
-
-aquaOS is currently in it's early developmnet it dosen't have a proper GUI, but it will in future!
-
-# System Requirements (as of ver. 0.0.1)
+# System Requirements
 
 # Website
 
@@ -24,8 +16,6 @@ aquaosdevteam@gmail.com
 # UPDATES AND ANNOUNCEMENTS
 
 # Photos
-
-## These are old photos of aquaOS. aquaOS is now Linu based OS
 
 ![aquaOSver06](https://user-images.githubusercontent.com/94230991/144704645-71ed7f0a-2b87-4e8b-8aaf-ca3137211abe.png)
 Version 0.6
