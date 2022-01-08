@@ -10,16 +10,6 @@ Current version: 0.0.1
 
 aquaOS is currently in it's early developmnet it dosen't have a proper GUI, but it will in future!
 
-# Plans (currently canceled)
-
-- [ ] Early January - Late January = Switching to Limine
-
-- [ ] Late January- Early February 2022 = finishing GUI, improving optimization on lower end devices
-
-- [ ] March-April 2022 = Finishing touches
-
-- [ ] April-Rest of the year = bux fixes and adding more language support (for example Croatian,Polish,French, etc.)
-
 # System Requirements (as of ver. 0.0.1)
 
 # Website
