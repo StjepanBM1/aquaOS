@@ -1,6 +1,6 @@
 # About aquaOS
 
-## aquaOS is now on a pause for some time unitl I don't realise what to do with it
+## aquaOS is now on a pause for some time until I don't realise what to do with it
 
 # System Requirements
 
