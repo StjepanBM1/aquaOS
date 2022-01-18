@@ -1,6 +1,6 @@
 # About aquaOS
 
-## aquaOS is now on a pause for some time until I don't realise what to do with it
+## aquaOS has merged with PekOS to form ReplexOS. aquaOS will no longer be updated and developed (same goes for PekOS)
 
 # System Requirements
 
