@@ -1,10 +1,11 @@
 # About aquaOS
 
-## aquaOS has merged with PekOS to form ReplexOS. aquaOS will no longer be updated and developed (same goes for PekOS)
-
-## NEW REPO LINK https://github.com/StjepanBM1/ReplexOS
+## aquaOS has been  discontinued
 
 # System Requirements
+RAM = ?
+
+DISK SPACE = ?
 
 # Website
 
